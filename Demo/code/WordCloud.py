@@ -1,9 +1,3 @@
-# - * - coding: utf - 8 -*-
-#
-# 作者：田丰(FontTian)
-# 创建时间:'2017/5/23'
-# 邮箱：fonttian@163.com
-# CSDN：http://blog.csdn.net/fontthrone
 from os import path
 
 from scipy.misc import imread
